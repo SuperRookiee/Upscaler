@@ -15,7 +15,6 @@
 # 🔹 샤프 강조 모드
 # ./run_upscale.sh sharp
 
-
 PROJECT_DIR="$HOME/Code/AI/ModernUpscale"
 VENV_DIR="$PROJECT_DIR/.venv"
 INPUT_DIR="$PROJECT_DIR/input"
