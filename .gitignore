@@ -1,8 +1,18 @@
+# Python venv
 .venv/
 venv/
-__pycache__/
+
+# IDE
 .idea/
 .vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Outputs
 output/
 results/
+
+# MacOS
 .DS_Store
